@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-# Temporary design preview. HTML carries noindex.
+Sitemap: https://azgadgetsenterprise.com/sitemap.xml
